@@ -1,4 +1,4 @@
-# Earn Quest Token (EARN) - README
+# Earn Quest Token (EARN) - WhitePaper
 
 ## Summary
 Earn Quest Token (EARN) is a blockchain-based ecosystem designed to reward users for completing tasks and interacting with digital platforms. EARN leverages blockchain technology, smart contracts, and gamified mechanics to enable users to earn tokens through participation, skill development, and community engagement. This document outlines the vision, technology, and mechanics behind the Earn Quest Token ecosystem and highlights how users can earn EARN tokens by completing tasks and contributing to the platform's growth.
