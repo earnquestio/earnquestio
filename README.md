@@ -48,7 +48,7 @@ User data and task details are stored in decentralized storage networks, ensurin
 
 ## 6. Tokenomics
 ### 6.1 Token Supply
-Total Supply: **1,000,000,000,000 EARN tokens**
+Total Supply: **1,000,000,000 EARN tokens**
 
 #### Distribution:
 - **50%:** Mission Rewards
